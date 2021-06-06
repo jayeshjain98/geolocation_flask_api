@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 # run the server 
-
+before running the server enter your google api service key in the geoapp/\_\_init\_\_.py file and then 
 ```
 python run.py
 ```
