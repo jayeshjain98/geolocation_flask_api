@@ -5,6 +5,6 @@ import googlemaps
 app = Flask(__name__)
 
 # Creatinf googlemaps API client
-gmaps = googlemaps.Client(key='AIzaSyCOD3KvY2DDzEfel-NZ_LKIWXr86EF_EUw')
+gmaps = googlemaps.Client(key='enter your key here')
 
 from geoapp import routes
